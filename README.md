@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on interesting projects in programming, game development, or cybersecurity.
 - 📫 How to reach me: You can contact me through GitHub or find me on social media @Amnon_h.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’m self-taught in many programming skills, with a background in advanced studies in computer science, physics, mathematics, and English. I also served in the Armored Corps in the IDF!
+- ⚡ Fun fact: I’m self-taught in many programming skills, with a background in advanced studies in computer science, physics, mathematics, and English. I also served in the Shrion Corps in the IDF!
 
 ---
 
